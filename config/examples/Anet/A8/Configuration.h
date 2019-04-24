@@ -875,6 +875,7 @@
  *      |           |
  *      O-- FRONT --+
  *    (0,0)
+ * settings for https://www.thingiverse.com/thing:2111157  Anet A8 Front Fan Sensor Mount 18 mm 
  */
 #define X_PROBE_OFFSET_FROM_EXTRUDER -26   // X offset: -left  +right  [of the nozzle]
 #define Y_PROBE_OFFSET_FROM_EXTRUDER -40   // Y offset: -front +behind [the nozzle]
